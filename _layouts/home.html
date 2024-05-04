@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: " en" }}" {% if page.lang == "ar" %}dir="rtl"{% endif %}>
+
+{%- include head.html -%}
+
+<body>
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <div class="home">
+        <header>
+          {%- if page.title -%}
+          <h1 class="page-heading">{{ page.title }}</h1>
+          {%- endif -%}
+          <ul class="social-media-list">
+            {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
+            {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username| escape }}</span></a></li>{%- endif -%}
+          </ul>
+        
+        </header>
+
+        {{ content }}
+
+        <ul class="story-list">
+          <li><img src="{{ "/assets/images/smoke_letters.jpg" | relative_url }}" alt="Smoked letter" /><a href="{{ "/assets/pdfs/smoke_letters.pdf"  | relative_url}}" target="_blank"><h3>رسائل دخان</h3></a> </li>
+          <li><img src="{{ "/assets/images/one_meeting.jpg" | relative_url }}" alt="Crowded airport" /><a href="{{ "/assets/pdfs/one_meeting.pdf" | relative_url }}" target="_blank"><h3 >لقاء واحد</h3> </a></li>
+        </ul>
+        {%- if site.posts.size > 0 -%}
+        <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+        <ul class="post-list">
+          {%- for post in site.posts -%}
+          <li>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            {%- endif -%}
+          </li>
+          {%- endfor -%}
+        </ul>
+
+        <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p>
+        {%- endif -%}
+
+      </div>
+
+    </div>
+  </main>
+</body>
+
+</html>
