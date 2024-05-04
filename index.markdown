@@ -6,7 +6,7 @@ layout: home
 title: Rafik E. Younan
 ---
 
-A Free and Open Source advocate with a passion for enhancing human and computer interactions through developing humans and democratizing technology.
+A Free and Open Source Software advocate with a passion for enhancing human and computer interactions through developing humans and democratizing technology.
 
 ## About
 Engineer by  education, software technical lead by profession, and humanist at core. I strive to use technology to advance collective human experience.
