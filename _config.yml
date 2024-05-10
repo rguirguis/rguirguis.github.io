@@ -31,6 +31,12 @@ linkedin_username: "rafikeyounan"
 github_username:  rguirguis
 google_analytics: "G-H8QRHDSKJ4"
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/logo.png
+
 # Build settings
 theme: minima
 plugins:
