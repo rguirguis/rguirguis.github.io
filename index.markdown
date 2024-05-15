@@ -18,6 +18,6 @@ When I'm in the Linux shell, I feel at home with my GNU utilities and trusty VI 
 ## Story Telling
 Writing is an essential tool that I have to use daily to translate client needs to digital instructions that computer can understand.
 
-And some days, I'm lucky to be inspired to write few articles and short stories .  I love to right about history, philosophy and discuss human psychology. But the one form I always try to write in is *Story Telling*.
+And some days, I'm lucky to be inspired to write few articles and short stories .  I love to write about history, philosophy and discuss human psychology. But the one form I always try to write in is *Story Telling*.
 
 I have few technical articles on LinkedIn, but for the Arabic audience here are two short stories:
