@@ -42,7 +42,8 @@
     }
 
     img {
-        max-width: 5rem;
+        max-width: calc(5rem - 4px);
+        border-radius: 0.5rem 0 0 0.5rem;
     }
 
     a:hover, a:focus {
