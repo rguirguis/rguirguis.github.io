@@ -18,22 +18,8 @@
         
         </header>
 
-        {{ content }}
+        {%-if page.intro %}<p>{{ page.intro }}</p>{% endif -%}
 
-        <ul class="story-list">
-          <li>
-            <a href="{{ "/assets/pdfs/smoke_letters.pdf"  | relative_url}}" target="_blank">
-              <img src="{{ "/assets/images/smoke_letters.jpg" | relative_url }}" alt="Smoked letter" />
-              <h3>رسائل دخان</h3>
-            </a>
-          </li>
-          <li>
-            <a href="{{ "/assets/pdfs/one_meeting.pdf" | relative_url }}" target="_blank">
-              <img src="{{ "/assets/images/one_meeting.jpg" | relative_url }}" alt="Crowded airport" />
-              <h3 >لقاء واحد</h3>
-            </a>
-          </li>
-        </ul>
         {%- if site.posts.size > 0 -%}
         <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
         <ul class="post-list">
@@ -54,7 +40,25 @@
         </ul>
 
         <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p>
+        <hr>
         {%- endif -%}
+
+        {{ content }}
+
+        <ul class="story-list">
+          <li>
+            <a href="{{ "/assets/pdfs/smoke_letters.pdf"  | relative_url}}" target="_blank">
+              <img src="{{ "/assets/images/smoke_letters.jpg" | relative_url }}" alt="Smoked letter" />
+              <h3>رسائل دخان</h3>
+            </a>
+          </li>
+          <li>
+            <a href="{{ "/assets/pdfs/one_meeting.pdf" | relative_url }}" target="_blank">
+              <img src="{{ "/assets/images/one_meeting.jpg" | relative_url }}" alt="Crowded airport" />
+              <h3 >لقاء واحد</h3>
+            </a>
+          </li>
+        </ul>
 
       </div>
 
