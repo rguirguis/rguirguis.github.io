@@ -19,9 +19,9 @@ It was a cold night, it was a warm night. He thought that he would not have to b
 
 He thought he knew everything he was about to face; raising a newborn is not an easy task, but at least he has some experience now. What he didn't know was that with a new baby he must be a new dad. A father of the first child is not the same as a father of two children. On one hand, no two babies are identical, even identical twins. On the other hand, dedicating his time to one child is drastically different from splitting his parenthood time between two children.
 
-Each newborn comes with their own timeline, early months you have to be very delicate with them, their necks are fragile, even their skulls are not fully developed. Sometimes you can see their brain pushing through their scalp through the open spaces of their skull. A couple of years forward and the boys want to play it rough. As they have successfully mastered walking and running, they are now ready to climb and jump everywhere. They have learned to recover quickly from their falls. They are starting to be covered in bruises and battle scars of their topographical expeditions.
+Each newborn comes with their own timeline, in the early months you have to be very delicate with them, their necks are fragile, even their skulls are not fully developed. Sometimes you can see their brain pushing through their scalp through the open spaces of their skull. A couple of years forward and the boys want to play it rough. As they have successfully mastered walking and running, they are now ready to climb and jump everywhere. They have learned to recover quickly from their falls. They are starting to be covered in bruises and battle scars of their topographical expeditions.
 
-Newborns need you for every waking moment, after all they can’t do any meaningful movement, they can even control their heads yet. True they have longer naps throughout the day, and if you are lucky during the night. Toddlers of 2 and 3-year-olds on the other hand can now entertain themselves, enjoy their toys and TV-shows. They still need you, but just not *all* their time.
+Newborns need you for every waking moment, after all they can’t do any meaningful movement, they can not even control their heads yet. True they have longer naps throughout the day, and if you are lucky during the night. Toddlers of 2 and 3-year-olds on the other hand can now entertain themselves, enjoy their toys and TV-shows. They still need you, but just not *all* of their time.
 
 ## Who is older?
 
@@ -32,7 +32,7 @@ But upon careful pondering, the father is only a father once he gets a son. And 
 But one might say, surely this case is not applicable for the subsequent children! But dear, the father of one child is drastically different from the father of two. As we explored with our little story above, there are 3 new axes of difference between the first fatherhood and each subsequent one.
 
 * Each child has their own timeline of human development. Each stage of their lifetime has its own requirements for parenthood. You can’t behave as a father of a 3-year-old boy to a 3-month-old newborn.
-* Each child has their own DNA and personality. Great, you knew how to put your oldest son to sleep eventually, your next one needs you to learn his way of putting him to sleep now. One child had an excursion routine, the next one has their digestive system on a different routine. This without accounting for different children of different genders.
+* Each child has their own DNA and personality. Great, you knew how to put your oldest son to sleep eventually, your next one needs you to learn his way of putting him to sleep now. One child had an excursion routine, the next one has their digestive system on a different routine. This is the case without accounting for the gender differences.
 * Each child comes at a different point in your life. You are not as young, as inexperienced or as patient when your next child comes as you were when you got the previous one. Life is working even if you are not aware of it. Life changes you, your partner, you supportive allies that got your back when you needed to leave your child for a couple of hours to have the reinvigorating romantic dinner with your partner. Your career has most probably changed your availability, time wise at least.
 
 I’ll rest my case for now. Each child will require a new father, although the father will not start from scratch, but the new changes will redefine his fatherhood.
@@ -41,11 +41,11 @@ I’ll rest my case for now. Each child will require a new father, although the 
 
 One of the shallowest questions about christian theology is how can the father, and the son of the holy trinity have the same underlying fundamental essence when the father must be older than the son!
 
-One must be aware when using the father-son terminology and talking about theology of mixing in the human limitations with his understanding of theological ontology. We try to find the true meaning of the father-son terminology while stripping away limitations imposed by our human precipitation based on our own experience.
+One must be aware when using the father-son terminology and talking about theology of mixing in the human limitations with his understanding of theological ontology. We try to find the true meaning of the father-son terminology while stripping away limitations imposed by our human perception based on our own experience.
 
 One of these limitations is that the father must be fully developed as a human being before he is emotionally and physically able to get married and has a child. One other limitation is that human newborns are born totally dependent on their parents to fulfill their basic needs.
 
-After peeling of most of these limitations, we are left with the wording of Jesus Christ describing Yehew as his father, and the words declared several times from heaven that Jesus Chirst is his *beloved Son*.
+After peeling off most of these limitations, we are left with the wording of Jesus Christ describing Yehew as his father, and the words declared several times from heaven that Jesus Chirst is his *beloved Son*.
 
 One can assume that father-son terminology carries the following meanings at least: representation, equality, differentiation of roles and intimacy.
 
